@@ -1,3 +1,6 @@
+> ⚠️ **Mirror.** Primary repository: [git.digtvbg.com](https://git.digtvbg.com/ivangotoy/llama-server-rdna4-vulkan/)
+> Development, issues, and PRs happen there. The GitHub repo is read-only.
+
 # llama-server vs vLLM on AMD RX 9070 XT (RDNA4)
 
 Benchmark comparing llama-server (Vulkan backend) vs vLLM (ROCm 7.2) on AMD Radeon RX 9070 XT (gfx1201 / RDNA4 architecture).
