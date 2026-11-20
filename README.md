@@ -1,5 +1,6 @@
-> ⚠️ **Mirror.** Primary repository: [git.digtvbg.com](https://git.digtvbg.com/ivangotoy/llama-server-rdna4-vulkan/)
-> Development, issues, and PRs happen there. The GitHub repo is read-only.
+> [!NOTE]
+> 🏡 **Home:** [git.digtvbg.com/ivangotoy/llama-server-rdna4-vulkan](https://git.digtvbg.com/ivangotoy/llama-server-rdna4-vulkan), where code, issues and releases live.
+> 🪞 **Mirror:** [github.com/ivangotoy/llama-server-rdna4-vulkan](https://github.com/ivangotoy/llama-server-rdna4-vulkan), read-only, synced automatically.
 
 # llama-server vs vLLM on AMD RX 9070 XT (RDNA4)
 
